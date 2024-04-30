@@ -1,0 +1,10 @@
+C:\Users\JoeAl\source\repos\Queueing_System\Queueing_System\bin\Debug\Queueing_System.exe.config
+C:\Users\JoeAl\source\repos\Queueing_System\Queueing_System\bin\Debug\Queueing_System.exe
+C:\Users\JoeAl\source\repos\Queueing_System\Queueing_System\bin\Debug\Queueing_System.pdb
+C:\Users\JoeAl\source\repos\Queueing_System\Queueing_System\obj\Debug\Queueing_System.csproj.AssemblyReference.cache
+C:\Users\JoeAl\source\repos\Queueing_System\Queueing_System\obj\Debug\Queueing_System.Main_Form.resources
+C:\Users\JoeAl\source\repos\Queueing_System\Queueing_System\obj\Debug\Queueing_System.Properties.Resources.resources
+C:\Users\JoeAl\source\repos\Queueing_System\Queueing_System\obj\Debug\Queueing_System.csproj.GenerateResource.cache
+C:\Users\JoeAl\source\repos\Queueing_System\Queueing_System\obj\Debug\Queueing_System.csproj.CoreCompileInputs.cache
+C:\Users\JoeAl\source\repos\Queueing_System\Queueing_System\obj\Debug\Queueing_System.exe
+C:\Users\JoeAl\source\repos\Queueing_System\Queueing_System\obj\Debug\Queueing_System.pdb
